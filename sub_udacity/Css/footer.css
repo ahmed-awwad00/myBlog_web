@@ -1,0 +1,14 @@
+/* Footer Component */
+footer {
+    background-color: #333;
+    padding: 10px 0;
+    text-align: center;
+    color: white;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+}
